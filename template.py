@@ -8,6 +8,8 @@ project_name = "fireDetect"
 
 list_of_files = [
     ".github/workflows/cicd.yaml",
+    "Dockerfile",
+    "app.py",
     "requirements.txt"
 ]
 
