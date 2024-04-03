@@ -1,4 +1,4 @@
-# code for running YOLO model for fire detection
+# code for running YOLOv8n model for fire detection
 
 from ultralytics import YOLO
 import cv2
